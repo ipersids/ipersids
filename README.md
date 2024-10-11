@@ -35,14 +35,14 @@ ___
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=dark"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light" height="200" />
+  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light&hide_border=true" height="200" />
 </picture>
 
 </div>
