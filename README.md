@@ -1,16 +1,48 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/images/dark_scheme_neon-gamedev-cover.png">
+  <source media="(prefers-color-scheme: light)" srcset="/assets/images/light_scheme_neon-gamedev-cover.png">
+  <img alt="Hello there!" src="/assets/images/light_scheme_neon-gamedev-cover.png">
+</picture>
+
+### Hei, I'm Julia!
+
+- 🐝 Currently studying at [Hive Helsinki](https://www.hive.fi/en/) (42 Network) coding school
+- 👩🏻‍💻 Programming in C, C++, Python, and SQL
+- 🌱 Currently learning [Full Stack Open](https://fullstackopen.com/en/): React, Redux, Node.js, MongoDB, GraphQL, and TypeScript
+- 📌 Background in data analysis and marketing
+- 👾 Dedicated to keeping my documentation clear and helpful
+- 📫 How to reach me: [Email](mailto:julia.persidskaia@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iuliia-persidskaia/)
+- ... and when I’m not coding, you’ll find me 🎮🏕🚴‍♀️🦆👀🏔🏂
+
+___
+
+#### GitHub Stats
+<div align="center">
 
 <!--
-**ipersids/ipersids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&layout=compact&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&layout=compact" height="200" />
+</picture>
 -->
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light" height="200" />
+</picture>
+
+</div>
