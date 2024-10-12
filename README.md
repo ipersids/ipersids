@@ -8,7 +8,7 @@
 
 - 🐝 Currently studying at [Hive Helsinki](https://www.hive.fi/en/) (42 Network) coding school
 - 👩🏻‍💻 Programming in C, C++, Python, and SQL
-- 🌱 Currently learning [Full Stack Open](https://fullstackopen.com/en/): React, Redux, Node.js, MongoDB, GraphQL, and TypeScript
+- 🌱 Learning [Full Stack Open](https://fullstackopen.com/en/): React, Redux, Node.js, MongoDB, GraphQL, and TypeScript
 - 📌 Background in data analysis and marketing
 - 👾 Dedicated to keeping my documentation clear and helpful
 - 📫 How to reach me: [Email](mailto:julia.persidskaia@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iuliia-persidskaia/)
@@ -19,30 +19,28 @@ ___
 #### GitHub Stats
 <div align="center">
 
-<!--
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&layout=compact&theme=dark"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=github-dark-blue&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&layout=compact&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&layout=compact" height="200" />
-</picture>
--->
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light&hide_border=true"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=ligth&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light&hide_border=true" height="200" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&hide_border=true&hide_title=true&layout=compact&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&hide_border=true&hide_title=true&layout=compact&theme=swift"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&hide_border=true&layout=compact" height="190" />
 </picture>
 
 </div>
