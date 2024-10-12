@@ -28,7 +28,7 @@ ___
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=ligth&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light&hide_border=true" height="200" />
+  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=light&hide_border=true" height="170" />
 </picture>
 
 <picture>
@@ -40,7 +40,7 @@ ___
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&hide_border=true&hide_title=true&layout=compact&theme=swift"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&hide_border=true&layout=compact" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&hide_border=true&layout=compact" height="160" />
 </picture>
 
 </div>
