@@ -21,7 +21,7 @@ ___
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=github-dark-blue&hide_border=true"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ipersids&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
