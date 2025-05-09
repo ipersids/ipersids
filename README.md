@@ -33,14 +33,14 @@ ___
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&hide_border=true&hide_title=true&layout=compact&langs_count=8&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook%2Ccmake&hide_border=true&hide_title=true&layout=compact&langs_count=10&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&hide_border=true&hide_title=true&layout=compact&langs_count=8&theme=swift"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook%2Ccmake&hide_border=true&hide_title=true&layout=compact&langs_count=10&theme=swift"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook&hide_border=true&layout=compact&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipersids&hide=jupyter%20notebook%2Ccmake&hide_border=true&layout=compact&langs_count=10" height="160" />
 </picture>
 
 </div>
