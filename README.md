@@ -9,8 +9,7 @@
 - 👩🏻‍💻 Programming in Rust, TypeScript, C++, C and knowing SQL
 - 📌 Background in data analysis and marketing
 - 👾 Dedicated to keeping my documentation clear and helpful
-- 🐝 Currently studying at [Hive Helsinki](https://www.hive.fi/en/) (42 Network) coding school
-- 🌱 Learning [Full Stack Open](https://fullstackopen.com/en/): React, Redux, Node.js, MongoDB, GraphQL, and TypeScript
+- 🐝 Alumna [Hive Helsinki](https://www.hive.fi/en/) (42 Network) coding school
 - 📫 How to reach me: [Email](mailto:julia.persidskaia@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iuliia-persidskaia/)
 - ... and when I’m not coding, you’ll find me 🎮🏕🚴‍♀️🦆👀🏔🏂
 
